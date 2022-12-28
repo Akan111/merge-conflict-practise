@@ -1,6 +1,3 @@
-
-# first-branch
-
-
+# third-branch
 
 My practise on how to resolve merge conflicts

@@ -1,2 +1,3 @@
-# merge-conflict-practise
+# second-branch
+
 My practise on how to resolve merge conflicts
